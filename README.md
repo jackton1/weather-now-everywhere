@@ -1,5 +1,7 @@
-weather_now_everywhere: Get updates on weather conditions in multiple locations using open weather api.
+weather_now_everywhere
 ======================
+
+## Get weather updates on conditions in multiple locations using open weather api.
 
 Getting Started
 ---------------
