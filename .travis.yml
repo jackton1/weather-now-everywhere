@@ -1,0 +1,13 @@
+language: python
+sudo: enabled
+
+notifications:
+  email:
+    recipients:
+      - tonyejck@gmail.com
+      
+install: 
+  - pip install -e . -r requirements.txt
+
+script:
+  - pytest
