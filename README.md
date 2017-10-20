@@ -1,4 +1,4 @@
-weather_now_everywhere
+weather_now_everywhere: Get updates on weather conditions in multiple locations using open weather api.
 ======================
 
 Getting Started
