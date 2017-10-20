@@ -1,0 +1,3 @@
+[run]
+source = weather_now_everywhere
+omit = weather_now_everywhere/test*
