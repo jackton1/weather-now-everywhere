@@ -1,5 +1,6 @@
 weather_now_everywhere
 ======================
+[![Build Status](https://travis-ci.org/jackton1/weather_now_everywhere.svg?branch=master)](https://travis-ci.org/jackton1/weather_now_everywhere)
 
 ## Get weather updates on conditions in multiple locations using open weather api.
 
